@@ -102,5 +102,6 @@ int getexptype(char *exp) {
 	free(*explist);
 	free(explist);
 	
+
 	return code;
 }
