@@ -1,0 +1,3 @@
+/home/sbeve72/Dropbox/CLionProjects/BitConsole/cmake-build-debug/CMakeFiles/BitConsole.dir
+/home/sbeve72/Dropbox/CLionProjects/BitConsole/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sbeve72/Dropbox/CLionProjects/BitConsole/cmake-build-debug/CMakeFiles/rebuild_cache.dir

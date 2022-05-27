@@ -1,0 +1,4 @@
+/home/sbeve72/CLion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/sbeve72/CLion/bin/ninja/linux/ninja -G Ninja -S /home/sbeve72/Dropbox/CLionProjects/BitConsole -B /home/sbeve72/Dropbox/CLionProjects/BitConsole/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sbeve72/Dropbox/CLionProjects/BitConsole/cmake-build-debug

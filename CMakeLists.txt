@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.21)
+project(BitConsole C)
+set(CMAKE_C_STANDARD 17)
+add_compile_options(-pedantic-errors -std=c90 -Wall -Wextra)
+add_executable(${PROJECT_NAME} src/main.c src/utils.h src/utils.c)
