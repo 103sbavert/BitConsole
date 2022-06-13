@@ -59,6 +59,7 @@ int vatof(char *c, float *nump) {
 	return 1;
 }
 
+
 int validateoperand(const char *operand) {
 	if (*operand == '>' && *(operand + 1) == '>' && *(operand + 2) == '\0') {
 		return BITSHIFT_RIGHT;
